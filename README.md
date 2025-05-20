@@ -74,3 +74,5 @@ New York University – Tandon School of Engineering
 - Apply transformer-based NLP models (e.g., BERT) on Business Descriptions
 - Incorporate external funding round data for validation
 - Deploy as a web-based pitch evaluation tool or simulation game
+
+-----
