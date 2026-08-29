@@ -1,0 +1,4 @@
+# The .html files here are exports of the notebooks beside them, so they are
+# excluded from GitHub language statistics. This keeps the repository reported
+# as the Jupyter / Python project it actually is.
+*.html linguist-generated=true
